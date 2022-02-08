@@ -1,6 +1,6 @@
 # HTML_StarWars
 ### Projeto Star Wars contendo os filmes e algumas séries.
-### Totalmente responsivo, foi um projeto craido em 2020 quando eu ainda era iniciante com bootstrap e css
+### Totalmente responsivo, foi um projeto criado em 2020 quando eu ainda era iniciante com bootstrap e css
 
 <img src=".github/1.png">
 <img src=".github/2.png">
